@@ -1,1 +1,1 @@
-This is original text.
+This is the updated text for the pull request.
